@@ -60,17 +60,6 @@ across 15 major cities in India.
 
 ---
 
-## 📷 Sample Outputs
-
-- Bar charts of pollutant levels across cities.
-- Line plots showing AQI trends over time.
-- Tables showing the most affected city per pollutant.
-- Predicted vs Actual AQI comparison plots.
-
-*(Include sample plots/screenshots here if uploading to GitHub.)*
-
----
-
 ## 🚀 How to Run
 
 1️⃣ Clone this repository:
@@ -111,9 +100,4 @@ install.packages(c("ggplot2", "dplyr", "forecast"))
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## 👨‍💻 Author
-
-- [Your Name](https://github.com/yourusername)
 
